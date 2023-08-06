@@ -88,3 +88,5 @@ pg_dump -cC --inserts -U freecodecamp number_guess > number_guess.sql
 `git commit -m "feat: create function to save the game"`
 
 Last step: Run The Script and enjoy the result!
+
+See the full solution here: [Bash script file](number_guess.sh) and [PostgreSQL file](number_guess.sql)
