@@ -90,3 +90,11 @@ pg_dump -cC --inserts -U freecodecamp number_guess > number_guess.sql
 Last step: Run The Script and enjoy the result!
 
 See the full solution here: [Bash script file](number_guess.sh) and [PostgreSQL file](number_guess.sql)
+
+My result:
+
+![Finish project](result_finish.jpg)
+
+Finished all projects!
+
+![Finished all projects](finished.jpg)
